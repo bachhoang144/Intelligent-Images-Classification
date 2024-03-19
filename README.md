@@ -17,8 +17,8 @@
 		<em>Developed with the software and tools below.</em>
 </p>
 <p align="center">
-	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
 	<img src="https://img.shields.io/badge/R-276DC3.svg?style=flat&logo=R&logoColor=white" alt="R">
+	<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=HTML5&logoColor=white" alt="HTML5">
 </p>
 <hr>
 
@@ -71,7 +71,7 @@ Utilizing the Flickr API for data collection, the project emphasizes natural lan
 
 ## 👏 Acknowledgments
 
-- List any resources, contributors, inspiration, etc. here.
+- Thank you to my group mate from my grad school program!
 
 [**Return**](#-quick-links)
 
